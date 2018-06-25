@@ -1,0 +1,19 @@
+.titlebox {
+    width: 100%;
+    min-height: 180px;
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Calibra', serif;
+    color: red;
+    text-shadow: 0 0 5px #000;
+    margin-bottom: 20px;
+}
+
+.titlebox h1 {
+    margin-top: 90px;
+    font-size: 3.5em;
+}
+
+.titlebox p {
+    font-size: 1.8em;
+}
